@@ -54,9 +54,9 @@ end
 endmodule
 ```
 
-Developed by:  Karthic U
+Developed by:  Avantika Krishnadas Kundooly
 
-RegisterNumber: 212224040151
+RegisterNumber: 212224040040
 
 **RTL LOGIC FOR SISO Shift Register:**
 
